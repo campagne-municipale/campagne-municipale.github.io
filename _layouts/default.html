@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+  <head>
+    <meta name="google-site-verification" content="MDEAEVAKZdQFqxg17bWRinCeezVo2Wu7SNMUMx3rIHI" />
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="description" content="{{ site.description }}">
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+
+
+    <!-- Custom CSS & Bootstrap Core CSS - Uses Bootswatch Flatly Theme: http://bootswatch.com/flatly/ -->
+    <link rel="stylesheet" href="{{ "/style.css" | prepend: site.baseurl }}">
+
+    <!-- Custom Fonts -->
+    <script src="https://kit.fontawesome.com/4fc79bea49.js" crossorigin="anonymous"></script>
+<!--     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/fontawesome.css" integrity="sha384-jLuaxTTBR42U2qJ/pm4JRouHkEDHkVqH0T1nyQXn1mZ7Snycpf6Rl25VBNthU4z0" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/solid.css" integrity="sha384-+0VIRx+yz1WBcCTXBkVQYIBVNEFH1eP6Zknm16roZCyeNg2maWEpk/l/KsyFKs7G" crossorigin="anonymous"> -->
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+    <link href='https://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
+    <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css">
+    <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
+
+    {% seo %}
+</head>
+
+
+    <body id="page-top" class="index">
+      
+    {% include header.html %}
+    {% include themes_campagne.html %}
+    {% include dossiers.html %}
+    {% include chiffres.html %}
+    {% include liste_candidats.html %}
+    {% include contact.html %}
+    <footer>
+      <div class="container">
+          <div class="row">
+              <div class="col-md-6">
+                  <span class="copyright">Copyright &copy; <b>Steeve FERTIG</b> {{ 'now' | date: "%Y" }}</span>
+              </div>
+  
+              <div class="col-md-6">
+                      <a href="#portfolioModal1000" data-toggle="modal" class="btn btn-primary btn-sm">Mentions légales</a>
+                      <a href="#portfolioModal1001" data-toggle="modal" class="btn btn-primary btn-sm">Crédits</a>
+                      <button type="button" class="btn btn-primary btn-sm"><script type="text/javascript" src="//counter.websiteout.net/js/7/6/25/0"></script></button>
+              </div>
+          </div>
+      </div>
+  </footer>
+  
+    {% include modals.html %}
+    {% include js.html %}
+
+    </body>
+</html>

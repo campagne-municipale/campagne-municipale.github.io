@@ -27,7 +27,7 @@
                 <div class="portfolio-caption">
                     <h4>{{ post.title }}
                         {% if post.reportage %}
-                            <a href="https://www.arboriculteurs-lichtenberg.eu/{{ post.reportage }}" target="_blank" data-toggle="modal"><i class="fas fa-external-link-alt"></i></a>
+                            <a href="{{site.url}}/{{ post.reportage }}" target="_blank" data-toggle="modal"><i class="fas fa-external-link-alt"></i></a>
                         {% endif %}
                     </h4>
                         <p class="text-muted">{{ post.subtitle }} </p>

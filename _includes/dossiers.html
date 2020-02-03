@@ -11,18 +11,19 @@
             {% assign sorted-posts = site.posts | sort: 'modal-id' %}
             {% for post in sorted-posts %}
             {%if post.modal-id < 1000 %}
-                 <div class="col-md-4 col-sm-6 portfolio-item">
+             <div class="col-md-4 col-sm-6 portfolio-item">
                 {% if post.reportage %}
-                    <a href="{{site.url}}/{{ post.reportage }}" target="_blank" class="portfolio-link" data-toggle="modal">
-                {% else %}
-                    <a href="#portfolioModal{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
+                <a href="{{site.url}}/{{ post.reportage }}" target="_blank" class="portfolio-link" data-toggle="modal">
+            {% else %} 
+                <a href="#portfolioModal{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
                 {% endif %}
                 <div class="portfolio-hover">
                     <div class="portfolio-hover-content">
                         <i class="fa fa-plus fa-3x"></i>
                     </div>
                 </div>
-                <img src="img/portfolio/{{ post.thumbnail }}" class="img-fluid" alt="">
+                <img src="img/dossiers/{{ post.thumbnail }}" class="img-fluid" alt="{{ post.title }}">
+                
                     </a>
                 <div class="portfolio-caption">
                     <h4>{{ post.title }}
@@ -32,6 +33,8 @@
                     </h4>
                         <p class="text-muted">{{ post.subtitle }} </p>
                 </div>
+                {% cycle '', '','</div><div class="row">' %}
+                
         </div>
         {% endif %}
         {% endfor %}

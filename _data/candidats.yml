@@ -1,0 +1,56 @@
+# Liste des candidats : Prénom et nom, vignette
+people:
+- name: Steeve<br />FERTIG
+  pic: steeve_fertig.jpg
+  position: 1
+- name: Lucie-Laure<br />MOREY
+  pic: lucie-laure_morey.jpg
+  position: 2
+- name: Claude<br />REIMANN
+  pic: christian_reimann.jpg
+  position: 3
+- name: Claudia<br />HENNINGER
+  pic: claudia.jpg
+  position: 4
+- name: Laurent<br />WAAG
+  pic: laurent_waag.jpg
+  position: 5
+- name: Élisabeth<br />ROTH
+  pic: elisabeth_roth.jpg
+  position: 6
+- name: Michel<br />GANDER
+  pic: michel_gander.jpg
+  position: 7
+- name: Valérie<br />SORLET
+  pic: valerie_sorlet.jpg
+  position: 8
+- name: Pierre<br />KESSLER
+  pic: pierre_kessler.jpg
+  position: 9
+- name: Elisabeth<br />MATHIS  
+  pic: elisabeth_mathis.jpg  
+  position: 10  
+- name: Christophe<br />GRASSER
+  pic: christophe_grasser.jpg
+  position: 11
+- name: Melek<br />BÖCÜ
+  pic: melek_böcü.jpg
+  position: 12
+#- name: Jeremy<br />HUBER
+#  pic: jeremy_huber.jpg
+#  position: 13  
+#- name: Joël<br />BRACONNIER
+#  pic: joel_braconnier.jpg
+#  position: 14
+#- name: Mandy<br />HEUSSLER
+#  pic: mandy_heussler.jpg
+#  position: 15
+#- name: Ève<br />ZELGOWSKI
+#  pic: eve_zelgowski.jpg
+#  position: 16
+
+
+  
+
+
+

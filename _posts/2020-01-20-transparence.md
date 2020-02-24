@@ -6,14 +6,14 @@ modal-id: 4
 date: 2020-01-20
 img: transparence.jpg
 thumbnail: transparence-thumbnail.jpg
-alt: image-alt
+alt: Argent sale
 auteur: Photo Markus Spiske
 copyright: Licence CC BY
 published: true
 ---
 
 ## Une gouvernance éthique et participative ##
-La liste *Pour Ingwiller : un engagement naturel* met un point d'honneur à doter la ville d'Ingwiller d'une gouvernance éthique, participative et transparente. Elle tient particulièrement à prévenir tout conflit d'intérêt et *copinage*. Pour ce faire, elle s'appuiera notamment sur les *30 propositions d’Anticor pour des communes plus éthiques*, **adaptées à la taille et aux particularités de notre commune**.
+La liste *Steeve Fertig : un engagement naturel* met un point d'honneur à doter à la ville d'Ingwiller d'une gouvernance éthique, participative et transparente. Elle tient particulièrement à prévenir tout conflit d'intérêt et *copinage*. Pour ce faire, elle s'appuiera notamment sur les *30 propositions d’Anticor pour des communes plus éthiques*, **adaptées à la taille et aux particularités de notre commune**.
 
 [ANTICOR](https://www.anticor.org/){:target="_blank"} est une association fondée en 2002 pour lutter contre la corruption et rétablir l’éthique en politique. Son ambition est de réhabiliter le rapport de confiance qui doit exister entre les citoyens et leurs représentants, politiques et administratifs.
 L’association regroupe des citoyens et des élus de toutes tendances politiques engagés pour faire respecter les exigences démocratiques non partisanes. Lors des élections, Anticor propose aux candidats une [charte]( https://www.anticor.org/2019/10/22/les-30-propositions-danticor-pour-des-communes-plus-ethiques/){:target="_blank"} définissant un engagement éthique irréprochable.

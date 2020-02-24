@@ -2,11 +2,11 @@
 title: Très chère mairie
 subtitle: Deux millions d'euros, en hausse
 layout: default
-modal-id: 5 
+modal-id: 6 
 date: 2020-01-20
 img: chere-mairie.jpg
 thumbnail: chere-mairie-thumbnail.jpg
-alt: image-alt
+alt: Mairie d'Ingwiller
 auteur: Photo Ralph Hammann
 copyright: Licence CC BY-SA
 published: true

@@ -25,7 +25,12 @@ p {
 p.large {
     font-size: 16px;
 }
+mark {
+    font-weight: bold;
+    font-size: 16px;
+    font-variant: small-caps;
 
+}
 a,
 a:hover,
 a:focus,
@@ -58,6 +63,39 @@ h6 {
 
 h2 {
     color: #{{ site.data.template.color.primary }} !important;
+}
+
+ol {
+    padding-left: 5em;
+}
+ol li {
+    list-style-position: outside;
+    padding-bottom: 6px;
+    }
+
+dl {
+    padding: 10% 10% 0 10%;
+}
+
+dt {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #{{ site.data.template.color.primary }} !important;
+}
+       
+dt::after {
+    content: "\00a0:";
+}
+
+dd {
+    padding-bottom: 12px;
+    margin-bottom: 24px;
+    font-size: 1.8rem;
+    border-bottom: #999 solid 1px;
+}
+
+dd:last-of-type {
+    border-bottom: none;
 }
 
 .img-centered {

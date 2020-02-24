@@ -2,11 +2,11 @@
 title: L'eau et la méthode
 subtitle: Qu'elle était bonne, jadis...
 layout: default
-modal-id: 3
+modal-id: 7
 date: 2020-01-20
 img: histoire_eau.jpg
 thumbnail: histoire_eau_thumbnail.jpg
-alt: image-alt
+alt: Eau courante
 auteur: Photo mrjn Photography
 copyright: Licence CC BY
 published: true

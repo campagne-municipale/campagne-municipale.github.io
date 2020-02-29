@@ -12,81 +12,94 @@ people:
 - name: Claudia<br />HENNINGER
   pic: claudia.jpg
   position: 4
-- name: Laurent<br />WAAG
-  pic: laurent_waag.jpg
+- name: Gilles<br />THIRIET
+  pic:  gilles_thiriet.jpg
   position: 5
-- name: Élisabeth<br />ROTH
-  pic: elisabeth_roth.jpg
+- name: Elisabeth<br />MATHIS  
+  pic: elisabeth_mathis.jpg  
   position: 6
-- name: Michel<br />GANDER
-  pic: michel_gander.jpg
+- name: Pierre<br />KESSLER
+  pic: pierre_kessler.jpg
   position: 7
 - name: Valérie<br />SORLET
   pic: valerie_sorlet.jpg
   position: 8
-- name: Pierre<br />KESSLER
-  pic: pierre_kessler.jpg
+- name: Laurent<br />WAAG
+  pic: laurent_waag.jpg
   position: 9
-- name: Elisabeth<br />MATHIS  
-  pic: elisabeth_mathis.jpg  
-  position: 10  
-- name: Christophe<br />GRASSER
-  pic: christophe_grasser.jpg
-  position: 11
-- name: Melek<br />BÖCÜ
-  pic: melek_böcü.jpg
-  position: 12
-- name: Jeremy<br />HUBER
-  pic: jeremy_huber.jpg
-  position: 13  
-- name: Mandy<br />HEUSSLER
-  pic: mandy_heussler.jpg
-  position: 14
-- name: Jean-Louis<br />IMBS
-  pic: jean-louis_imbs.jpg
-  position: 15
-- name: Anny<br />REY
-  pic: annie_rey.jpg
-  position: 16
-- name: Gilles<br />GODAR
-  pic: gilles_godar.jpg
-  position: 17
 - name: Ève<br />ZELGOWSKI
   pic: eve_zelgowski.jpg
-  position: 18
-- name: Florent<br />OSTERROTH
-  pic: florent_osterroth.jpg
-  position: 19
-- name: Éléonore CARRASCO
-  pic: eleonore_carasco.jpg
-  position: 20
-- name: Frédéric<br />KARAS
-  pic: frederic_karas.jpg
-  position: 21  
-- name: Sylvie<br />NUNIGE
-  pic: sylvie_nunige.jpg  
-  position: 22
+  position: 10
+- name: Michel<br />GANDER
+  pic: michel_gander.jpg
+  position: 11
+- name: Mandy<br />HEUSSLER
+  pic: mandy_heussler.jpg
+  position: 12
+- name: Christophe<br />GRASSER
+  pic: christophe_grasser.jpg
+  position: 13
+- name: Melek<br />BÖCÜ
+  pic: melek_böcü.jpg
+  position: 14
 - name: Romain<br />CANTAT
   pic: romain_cantat.jpg
-  position: 23
+  position: 15
 - name: Marie-Reine<br />BERNHARD
   pic: marie-reine_bernhard.jpg
-  position: 24
-- name: Gilles<br />THIRIET
-  pic:  gilles_thiriet.jpg
-  position: 25
-- name: Brigitte<br />KESSLER
-  pic: brigitte_kessler.jpg
-  position: 26
-- name: Christian<br />COMTESSE
-  pic: christian_comtesse.jpg
-  position: 27
-- name: Acsa<br />IRAKOZE  
-  pic: acsa_irakoze.jpg
-  position: 28
+  position: 16
+- name: Frédéric<br />KARAS
+  pic: frederic_karas.jpg
+  position: 17
+- name: Éléonore CARRASCO
+  pic: eleonore_carasco.jpg
+  position: 18
+- name: Jeremy<br />HUBER
+  pic: jeremy_huber.jpg
+  position: 19 
+- name: Élisabeth<br />ROTH
+  pic: elisabeth_roth.jpg
+  position: 20
 - name: Joël<br />BRACONNIER
   pic: joel_braconnier.jpg
+  position: 21
+- name: Anny<br />REY
+  pic: annie_rey.jpg
+  position: 22
+- name: Jean-Louis<br />IMBS
+  pic: jean-louis_imbs.jpg
+  position: 23
+- name: Sylvie<br />NUNIGE
+  pic: sylvie_nunige.jpg  
+  position: 24
+- name: Christian<br />COMTESSE
+  pic: christian_comtesse.jpg
+  position: 25
+- name: Acsa<br />IRAKOZE  
+  pic: acsa_irakoze.jpg
+  position: 26
+- name: Florent<br />OSTERROTH
+  pic: florent_osterroth.jpg
+  position: 27
+- name: Brigitte<br />KESSLER
+  pic: brigitte_kessler.jpg
+  position: 28
+- name: Gilles<br />GODAR
+  pic: gilles_godar.jpg
   position: 29
+
+
+
+
+
+
+
+
+
+
+
+
+
 
   
 

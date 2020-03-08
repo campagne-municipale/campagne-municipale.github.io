@@ -20,9 +20,10 @@ Tract numéro un
 Tract numéro deux
 : Publié le **28 février 2020** - <small class="text-muted">steeve_fertig02.pdf - format PDF - 16,2 mo</small> &nbsp; <a href="docs/steeve_fertig02.pdf" download><i class="fas fa-download fa-lg"></i></a>
 
-<!-- Tract numéro trois
-: Publié le 19 novembre 2019 - <small class="text-muted">steeve_fertig01.pdf - format PDF - 11,7 mo</small> &nbsp; <a href="docs/steeve_fertig01.pdf" download><i class="fas fa-download fa-lg"></i></a>
+Tract numéro trois
+: Publié le **6 mars 2020** - <small class="text-muted">steeve_fertig03.pdf - format PDF - 4,7 mo</small> &nbsp; <a href="docs/steeve_fertig03.pdf" download><i class="fas fa-download fa-lg"></i></a>
 
+<!-- 
 Profession de foi
 : Publié le 19 novembre 2019 - <small class="text-muted">steeve_fertig01.pdf - format PDF - 11,7 mo</small> &nbsp; <a href="docs/steeve_fertig01.pdf" download><i class="fas fa-download fa-lg"></i></a>
  -->
